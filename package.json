@@ -1,0 +1,15 @@
+{
+  "name": "wordproblem",
+  "version": "1.0.0",
+  "description": "Word Composition Problem given by Impledge Technologies.",
+  "main": "WordProblem.js",
+  "scripts": {
+    "test": "node WordProblem.js",
+    "start": "nodemon WordProblem.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
